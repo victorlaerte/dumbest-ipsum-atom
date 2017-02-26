@@ -6,4 +6,4 @@ Dilmes Ipsum for atom (Not published yet)
 
 ## Sublime Text Editor version
 
-If you are interested in Sublime's version checkout this [plugin](https://github.com/thiagoh/sublime-dilmes-ipsum)
+If you are interested in Sublime's version checkout this [plugin](https://github.com/victorlaerte/dumbest-ipsum)
